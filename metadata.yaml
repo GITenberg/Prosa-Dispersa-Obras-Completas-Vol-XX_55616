@@ -1,5 +1,8 @@
 _repo: Prosa-Dispersa-Obras-Completas-Vol-XX_55616
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55616-h/images/cover.jpg
 creator:
   author:
     agent_name: Darío, Rubén
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31590
     wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55616#Prosa-Dispersa-Obras-Completas-Vol-XX
 gutenberg_issued: '2017-09-24'
 gutenberg_type: Text
 identifiers:
